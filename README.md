@@ -1,4 +1,15 @@
 # Cytryna
+Cytrynka is a mobile application built with React Native that provides easy access to offers, coupons, and user account information. Its design and features are inspired by popular loyalty apps like Lidl Plus. With its intuitive interface, users can easily access key features such as:
+
+- Offers Screen – Browse available promotions and special offers.
+- Coupons – Take advantage of available discount coupons.
+- Barcode – Quick access to a personal barcode that can be scanned during shopping.
+- Account Section – Manage your personal data, check transaction history, and monitor active coupons.
+## Application Features
+- Offers and Promotions: An interactive offers screen that is available immediately upon launching the app.
+- Coupons: Allows users to browse and activate coupons that can be used at partner stores.
+- Barcode: A convenient section displaying a barcode that can be scanned in-store, simplifying the process of redeeming coupons and discounts.
+- Account Management: Enables users to manage account data, including viewing coupon history and transaction details.
 
 ## Login
 ![logowanie1](https://github.com/user-attachments/assets/7b7dc17b-e231-44ed-b916-c22c51e1a0dc)
